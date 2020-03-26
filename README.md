@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
 
 ## Introduction
 This project is started just for testing Purpose
@@ -13,4 +13,4 @@ This project is started just for testing Purpose
 weekly bases
 
 ## Contribution
-whoever want to contribut can join us.
+whoever want to contribute can join us.
